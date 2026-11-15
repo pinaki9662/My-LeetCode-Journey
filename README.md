@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pinaki9662/My-LeetCode-Journey/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/pinaki9662/My-LeetCode-Journey/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/pinaki9662/My-LeetCode-Journey/tree/main/0015-3sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pinaki9662/My-LeetCode-Journey/tree/main/0020-valid-parentheses/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/pinaki9662/My-LeetCode-Journey/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/pinaki9662/My-LeetCode-Journey/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
